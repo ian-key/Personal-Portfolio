@@ -3,7 +3,7 @@
 ### Portfolio Specification
 A specification was provided from the Altcademy excercise:
 
-#####Details
+##### Details
 Here are some user stories that you need to achieve for this project.
 1. I can access all the portfolio webpage's content just by scrolling.
 2. I can click different buttons that will take me to the portfolio creator's different social media pages.
