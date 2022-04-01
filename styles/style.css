@@ -1,9 +1,9 @@
 /* General Style */
 
-body {
-  padding-bottom: 20px;
+.container-fluid, .container {
+  padding-left: 24px;
+  padding-right: 24px;
 }
-
 
 /* Hero Section */
 
@@ -60,3 +60,13 @@ border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
 /* Portfolio Section */
+
+img {
+  max-width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.accordion {
+  width: 80%;
+}
