@@ -70,3 +70,7 @@ img {
 .accordion {
   width: 80%;
 }
+
+.btn-outline-secondary {
+  min-width: 140px;
+}
