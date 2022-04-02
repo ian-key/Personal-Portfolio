@@ -74,3 +74,21 @@ img {
 .btn-outline-secondary {
   min-width: 140px;
 }
+
+@media (max-width: 992px) {
+  .profile-block {
+    text-align: center;
+  }
+}
+
+
+/* Footer Section */
+.footer-link {
+  text-decoration: none;
+  color: black;
+}
+
+.footer-nav:hover {
+  text-decoration: underline;
+  color: grey;
+}
